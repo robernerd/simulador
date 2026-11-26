@@ -11,7 +11,7 @@ Este repositório foi desenvolvido como parte de um desafio prático de ciberseg
 
 ## Keylogger Simulado (`/keylogger`)
 
-Na pasta [`keylogger/`](./keylogger) está o script de **keylogger simulado**, desenvolvido com `pynput` para fins de estudo.
+Na pasta raiz (/keylogger) está o script de **keylogger simulado**, desenvolvido com `pynput` para fins de estudo.
 
 ### Comportamento do script
 
